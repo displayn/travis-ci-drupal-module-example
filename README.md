@@ -4,7 +4,7 @@ Example Drupal Module
 The purpose of this repository is to show how to use Travis CI to do
 continuous integration with a Drupal project.
 
-Here is a sample status icon showing the state of the master branch.
+Here is a sample status icon showing the state of the **container-based** branch.
 
 [![Build Status](https://secure.travis-ci.org/displayn/travis-ci-drupal-module-example.png?branch=container-based)](https://travis-ci.org/displayn/travis-ci-drupal-module-example)
 
